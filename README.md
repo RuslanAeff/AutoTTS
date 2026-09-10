@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <strong>Türkçe</strong> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <a href="#özellikler">Özellikler</a> ·
   <a href="#kurulum">Kurulum</a> ·
   <a href="#kullanım">Kullanım</a> ·
