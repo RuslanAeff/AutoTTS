@@ -1,0 +1,27 @@
+{
+  "recorded_at": "2026-09-10T12:15:36.026347+00:00",
+  "build_id": "395f6cf55d32780195cddef45f0b9ef16e6cc0aefc04eec421c9f7ee58b1f74d",
+  "commit": "kaydedilmedi — Git deposu yok",
+  "sources": {
+    "main.py": "1b12af7e39a17a37d80ec8025e9e1848aa5b892e2188f64b4e8b1c0e02805c2e",
+    "tts_engine.py": "26600dd52cec1daae5320b35c4e5e484434e988507c9b447edd8e8845598ef7d",
+    "audio_io.py": "f99256fd219cc9dc169f50cbf590ef40eb544fa8e4bfeba31cef7552ac518256",
+    "playback.py": "838f5a02d90dbbf6953956112fa753a1bbca48be7b727600fea26c5f60678403",
+    "batch.py": "efe10618223021a4e89cfff2b81048f5616f7afe7fca49bb8c56231c85f9a86e",
+    "requirements.txt": "be9708edf97c6eefd227b69c1d0cbf0b8e724456c51ef1fc4309038ac3468945",
+    "tests/test_core.py": "a7e57150fe2f7f2e06198f304e500cc38896e84a10870ce4b13a1a9c9ebbe3d9",
+    "scripts/smoke_tts.py": "2538b1427323b9d740c672af5120c4191071dcaeb7666d65cc541795cb1162db",
+    "scripts/smoke_gui.py": "b0a72fcc47c59a0171dc5e5b5369a5a5456eea5bfd06856181791e8dfbe016a8",
+    "scripts/evidence_snapshot.py": "3933fbbf46e9281afb88aee86fdbd33aef12deebe38cdd917ad1394d763e0408",
+    "assets/sample.txt": "959d6d5fe7d2afd384f643087ace83528f76d52056eefc5b619b92efb33107c8",
+    "tests/test_playback.py": "9468850dcfe082993f99b25a872f1ab71dce4420901a8ada63174f1d6fc418cc",
+    "scripts/smoke_timeline.py": "9727a0b46d5c864e8ef70d65ab0c46021d5865266b2402f096e9b3435e6c6317",
+    "scripts/check_evidence.py": "302eb2d3e04b9921fa87169e2195d4ef3f59661871aa40c5955d2cfaeb98643c"
+  },
+  "artifacts": {
+    "outputs/british-cpu/sample.mp3": "0679fc1472724779e30e09c13b37e8b3d614460ad7e5262839030d62373f9e5a",
+    "outputs/british-cpu/sample.wav": "09fe79bfeea3a0cb709648a63d919ddd60ed2dd739c1fd5de5e5c53581ac4f69",
+    "outputs/smoke/sample.mp3": "5dcdf8c3de0ddb61e08c8293791c642469f4b161c1cf8703c3f39676f99cb4b3",
+    "outputs/smoke/sample.wav": "53d9b6bb0d462b95615751d02fea6edc490de1d984ae333fe1bf55ec70202bd8"
+  }
+}

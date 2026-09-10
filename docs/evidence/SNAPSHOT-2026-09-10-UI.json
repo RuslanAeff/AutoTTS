@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-09-10T14:43:26.522578+00:00",
+  "build_id": "b9335956ceb900b2dbe2b3004e608a1cd1e4c1208a58c278142e5e763bf0ad2c",
+  "commit": "kaydedilmedi — Git deposu yok",
+  "sources": {
+    "main.py": "13b1fa2828795a722aa4fd69071e2d73bfab8dc976cd2b98c2a76bfeacfd59a4",
+    "ui.py": "48a5863e5def35e689143a29d5db3a940befad1a6bab0972ac4250b26edec635",
+    "scripts/preview_ui.py": "a9d7413e33ffd9817cf720088124d7a49975131bc644e85b2bd579c29eb21925",
+    "tts_engine.py": "26600dd52cec1daae5320b35c4e5e484434e988507c9b447edd8e8845598ef7d",
+    "audio_io.py": "71e1bc91c57a8559681b9d73a4461b0ba00eac23a5ba2a07d4b21b0b0ab8f4b2",
+    "playback.py": "838f5a02d90dbbf6953956112fa753a1bbca48be7b727600fea26c5f60678403",
+    "batch.py": "efe10618223021a4e89cfff2b81048f5616f7afe7fca49bb8c56231c85f9a86e",
+    "requirements.txt": "be9708edf97c6eefd227b69c1d0cbf0b8e724456c51ef1fc4309038ac3468945",
+    "tests/test_core.py": "a7e57150fe2f7f2e06198f304e500cc38896e84a10870ce4b13a1a9c9ebbe3d9",
+    "scripts/smoke_tts.py": "2538b1427323b9d740c672af5120c4191071dcaeb7666d65cc541795cb1162db",
+    "scripts/smoke_gui.py": "b0a72fcc47c59a0171dc5e5b5369a5a5456eea5bfd06856181791e8dfbe016a8",
+    "scripts/evidence_snapshot.py": "7d9c9bc2b52e0b0054644efb25fc5252f45b6aea4be414a99d5f00879d736932",
+    "assets/sample.txt": "959d6d5fe7d2afd384f643087ace83528f76d52056eefc5b619b92efb33107c8",
+    "tests/test_playback.py": "9468850dcfe082993f99b25a872f1ab71dce4420901a8ada63174f1d6fc418cc",
+    "tests/test_export.py": "bd1f4abd1c4f71747ce871d4d6f152d53bfc2d3f6016535df9615a27ef1c0490",
+    "scripts/smoke_timeline.py": "9727a0b46d5c864e8ef70d65ab0c46021d5865266b2402f096e9b3435e6c6317",
+    "scripts/check_evidence.py": "ff1f5cecfbd8c0c1c24975cf915af8fda941de58e385c3468e2a5eb1086e844f"
+  },
+  "artifacts": {
+    "outputs/british-cpu/sample.mp3": "0679fc1472724779e30e09c13b37e8b3d614460ad7e5262839030d62373f9e5a",
+    "outputs/british-cpu/sample.wav": "09fe79bfeea3a0cb709648a63d919ddd60ed2dd739c1fd5de5e5c53581ac4f69",
+    "outputs/smoke/sample.mp3": "5dcdf8c3de0ddb61e08c8293791c642469f4b161c1cf8703c3f39676f99cb4b3",
+    "outputs/smoke/sample.wav": "53d9b6bb0d462b95615751d02fea6edc490de1d984ae333fe1bf55ec70202bd8"
+  }
+}
