@@ -1,0 +1,6 @@
+kokoro==0.9.4
+soundfile>=0.13.1,<0.14
+customtkinter>=5.2.2,<6
+torch>=2.6,<3
+numpy>=1.26,<3
+pyobjc-framework-AVFoundation>=11,<13; sys_platform == "darwin"

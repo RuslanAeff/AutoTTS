@@ -1,0 +1,1 @@
+Hello! Welcome to AutoTTS. This is a local text to speech application. You can choose a voice, adjust the speed, and save your audio.
