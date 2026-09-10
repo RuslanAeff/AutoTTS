@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">AutoTTS — Metninize ses verin.</title>
+  <desc id="desc">Yerel İngilizce seslendirme stüdyosu. Koyu zemin üzerinde yeşil ses dalgası ve AutoTTS başlığı.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132832"/><stop offset="1" stop-color="#20443f"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#208e7c"/><stop offset="1" stop-color="#88edd1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="50" r="230" fill="#68d5b8" opacity=".035"/>
+  <circle cx="1080" cy="50" r="165" fill="none" stroke="#7de4c7" opacity=".09"/>
+  <rect x="54" y="44" width="48" height="48" rx="14" fill="#087f73"/>
+  <path d="M65 64q7-7 14 0t14 0M65 72q7-7 14 0t14 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="118" y="78" fill="#eef7f4" font-family="Helvetica,Arial,sans-serif" font-size="33" font-weight="700">AutoTTS</text>
+  <text x="55" y="157" fill="#fff" font-family="Helvetica,Arial,sans-serif" font-size="44" font-weight="700">Metninize ses verin.</text>
+  <text x="56" y="193" fill="#b6ccc8" font-family="Helvetica,Arial,sans-serif" font-size="18">İngilizce metinleriniz için yerel seslendirme stüdyosu.</text>
+  <text x="56" y="251" fill="#76dec1" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="2">MACOS  /  KOKORO  /  WAV + MP3</text>
+  <path d="M766 148v8m16-20v32m16-39v46m16-62v78m16-91v104m16-123v142m16-110v78m16-112v146m16-126v106m16-144v182m16-161v140m16-113v86m16-112v138m16-104v70m16-93v116m16-93v70m16-52v34m16-25v16m16-12v8" fill="none" stroke="url(#wave)" stroke-width="7" stroke-linecap="round"/>
+</svg>
